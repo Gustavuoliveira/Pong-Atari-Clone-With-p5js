@@ -38,7 +38,7 @@ let collide_player = false;
 let collide_enemy = false;
 
 function preload(){
-  pong_font = loadFont('library/assets/bit5x3');
+  pong_font = loadFont('library/assets/bit5x3.ttf');
 }
 
 function setup() {
